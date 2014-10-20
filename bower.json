@@ -1,0 +1,26 @@
+{
+  "name": "mu-getargs",
+  "homepage": "https://github.com/mu-lib/mu-getargs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mu-lib/mu-getargs.git"
+  },
+  "authors": [
+    "Mikael Karon"
+  ],
+  "description": "Micro GetArgs",
+  "main": "main.js",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ],
+  "devDependencies": {
+    "requirejs": "~2"
+  }
+}
