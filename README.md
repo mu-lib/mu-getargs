@@ -11,7 +11,7 @@ Parse a string as function arguments. Can also parse named arguments.
 
 0. `str {String}` - The string to parse.
 
-**Note: If the `this` value of the function is defined, it will be used as the string (see examples). Thus it is
+**Note:** If the `this` value of the function is defined, it will be used as the string (see examples). Thus it is
 possible to use this function to extend the String prototype: `String.prototype.parseArgs = getargs`.
 
 ## Installation
