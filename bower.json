@@ -1,26 +1,31 @@
 {
-  "name": "mu-getargs",
-  "homepage": "https://github.com/mu-lib/mu-getargs",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/mu-lib/mu-getargs.git"
-  },
-  "authors": [
-    "Mikael Karon"
-  ],
-  "description": "Micro GetArgs",
-  "main": "main.js",
-  "moduleType": [
-    "amd"
-  ],
-  "license": "MIT",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test"
-  ],
-  "devDependencies": {
-    "requirejs": "~2"
-  }
+    "name": "mu-getargs",
+    "version": "0.0.1",
+    "homepage": "https://github.com/mu-lib/mu-getargs",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mu-lib/mu-getargs.git"
+    },
+    "authors": [
+        "µLib Team (https://github.com/mu-lib)"
+    ],
+    "description": "Parse a string as function arguments",
+    "main": "./dist/getargs.js",
+    "moduleType": [
+        "amd",
+        "node"
+    ],
+    "keywords": [
+        "parse",
+        "function",
+        "arguments"
+    ],
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
 }
