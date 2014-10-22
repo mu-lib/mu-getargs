@@ -1,4 +1,4 @@
-/** @nastr getargs */
+/** @name getargs */
 function getargsFactory() {
     "use strict";
 
