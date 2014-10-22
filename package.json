@@ -1,6 +1,6 @@
 {
   "name": "mu-getargs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Parse a string as function arguments",
   "main": "dist/getargs.js",
   "scripts": {
