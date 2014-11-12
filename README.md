@@ -22,12 +22,10 @@ possible to use this function to extend the String prototype: `String.prototype.
 - AMD (install with bower):
     0. `bower install mu-getargs`
     0. `require(['mu-getargs/dist/getargs'], function(getargs){ /* ... */ });`
-    
-Build a UMD dist with `make build`. 
    
-Run tests with `make test`.
+Run tests with `npm test`.
 
-Run coverage analysis with `make coverage` (coverage report is saved to `./coverage`).
+Run coverage analysis with `npm run coverage` (coverage report is saved to `./coverage`).
 
 ## Examples
 

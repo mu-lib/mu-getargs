@@ -10,7 +10,7 @@
         "µLib Team (https://github.com/mu-lib)"
     ],
     "description": "Parse a string as function arguments",
-    "main": "./dist/getargs.js",
+    "main": "main.js",
     "moduleType": [
         "amd",
         "node"
@@ -25,7 +25,6 @@
         "**/.*",
         "node_modules",
         "bower_components",
-        "test",
-        "tests"
+        "test"
     ]
 }
